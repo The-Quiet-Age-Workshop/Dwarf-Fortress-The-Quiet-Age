@@ -1,0 +1,8 @@
+[ID:df_the_quiet_age]
+[NAME:Dwarf Fortress The Quiet Age]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:1.0.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0.0]
+[AUTHOR:Avenkyr Pakacit]
+[DESCRIPTION:Journey the land in a new age! Play as a drek, ormer, or mavot and learn the mysteries of mana and resonance.]
